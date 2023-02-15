@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661344515720",
+    "project_id": "dit-mca-store",
+    "storage_bucket": "dit-mca-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661344515720:android:e22f30e2c33256f95e913d",
+        "android_client_info": {
+          "package_name": "com.example.dit_mca_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661344515720-brf36ktkud5141tltr835irc9e6d5i5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRNSsIESI4jeoKtsZ9OJ1MyFWSN77K-Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661344515720-brf36ktkud5141tltr835irc9e6d5i5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
