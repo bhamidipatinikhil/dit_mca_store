@@ -56,12 +56,8 @@ class BuyingScreen extends ConsumerWidget {
       floatingActionButton: ElevatedButton(
           child: Text("Pay"),
           onPressed: () {
-            if (ref.read(totalPriceProvider) > ref.read(balanceProvider)) {
-              ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-                  content: Text("Insufficient Balance",
-                      style: TextStyle(fontWeight: FontWeight.bold))));
-              return;
-            }
+            
+            
 
 
           }),
